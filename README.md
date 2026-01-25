@@ -2,7 +2,7 @@
 
 A production-ready REST API for invoice management built with Spring Boot, designed for freelancers and small-to-medium businesses.
 
-![Java](https://img.shields.io/badge/Java-17-orange?style=flat&logo=java)
+![Java](https://img.shields.io/badge/Java-21-orange?style=flat&logo=java)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.2-green?style=flat&logo=springboot)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15-blue?style=flat&logo=postgresql)
 ![License](https://img.shields.io/badge/License-MIT-yellow?style=flat)
@@ -21,7 +21,7 @@ A production-ready REST API for invoice management built with Spring Boot, desig
 
 ## 🛠️ Tech Stack
 
-- **Backend**: Java 17, Spring Boot 3.2
+- **Backend**: Java 21, Spring Boot 3.2
 - **Security**: Spring Security, JWT
 - **Database**: PostgreSQL 15+
 - **ORM**: Spring Data JPA / Hibernate
@@ -31,7 +31,7 @@ A production-ready REST API for invoice management built with Spring Boot, desig
 
 ## 📋 Prerequisites
 
-- Java 17 or higher
+- Java 21 or higher
 - Maven 3.6+
 - PostgreSQL 15+
 - Git
